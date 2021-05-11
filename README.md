@@ -21,3 +21,8 @@ https://sedac.ciesin.columbia.edu/data/set/pend-gdis-1960-2018
 * Random Forest models were trained and tested. Hyper-parameters tuning was implemented to tackle overfitting of final model. 
 
 
+## Testimonial from InnovTech Inc
+
+“Blue Diamond's NDPS is an impressive predictive modeling tool that will enable our company to analyze, predict and plan our business operations and development. We can use this tool in assisting our Medical assistance field operations team in planning their outreach services and preparing for any disasters or unplanned events.”
+
+Prasanna Rao (President - InnovTech Inc)
