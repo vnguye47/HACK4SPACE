@@ -3,7 +3,7 @@
 
 # Problem Statement
 Data has shown that the occurrence of these natural disasters is increasing in frequency, growing approximately 350% between 1990 and 2010. 
-The number of natural disasters has increased by 350% from 1990 to 2010 and the number of natural disasters will continue to grow. In 2020, 980 natural disasters caused over 8000 deaths and USD 210 billions in overall losses. We explore if we can predict natural disaster. 
+The number of natural disasters has increased by 350% from 1990 to 2010 and the number of natural disasters will continue to grow. In 2020, 980 natural disasters caused over 8000 deaths and USD 210 billions in overall losses. We explore if we can create a natural disaster prediction system. 
 
 
 
