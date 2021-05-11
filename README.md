@@ -1,5 +1,5 @@
-# HACK4SPACE
-Natural Disaster Prediction System
+# Natural Disaster Prediction System
+
 
 ## Problem Statement
 
